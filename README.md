@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Pimentel</h1>
-<h3 align="center">A DevOPS specialist from Brazil</h3>
+<h3 align="center">A Senior FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pimentelleo&label=Profile%20views&color=0e75b6&style=flat" alt="pimentelleo" /> </p>
 
@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Bruce Firmware](https://github.com/pr3y/Bruce)
 
 - 🌱 I’m currently learning **Go, Rust, and DynamoDB**
 
