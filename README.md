@@ -97,9 +97,9 @@ ask_me_about: [DevOps, Cloud Architecture, IaC, CI/CD, Kubernetes, SRE]
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pimentelleo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pimentelleo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pimentelleo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pimentelleo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pimentelleo&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pimentelleo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </picture>
   &nbsp;
   <picture>
