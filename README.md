@@ -79,7 +79,7 @@ ask_me_about: [DevOps, Cloud Architecture, IaC, CI/CD, Kubernetes, SRE]
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,spring,nodejs,nestjs,express,angular,vue,nuxt,svelte,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=python,rust,ts,js,java,spring,nodejs,nestjs,express,angular,vue,nuxt,svelte,react,nextjs" />
 
 **Databases & Messaging**
 
