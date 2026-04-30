@@ -13,6 +13,17 @@
 
 ---
 
+<div align="center">
+  <h3>🚀 I turn complex infrastructure into elegant, self-healing systems.</h3>
+  <p>
+    With <b>9+ years</b> bridging the gap between development and operations, I've architected CI/CD pipelines,<br>
+    orchestrated Kubernetes clusters, and built cloud-native platforms for fintechs, telecoms, and credit bureaus across Brazil.<br>
+    From bare metal to multi-cloud — if it deploys, scales, or breaks at 3 AM, I've probably automated it.
+  </p>
+</div>
+
+---
+
 ### :man_technologist: About Me
 
 ```yaml
