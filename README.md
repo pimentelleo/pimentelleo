@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+DevOPS+Architect+%40+SOU;9%2B+years+in+DevOps%2C+SRE+%26+FullStack;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Python+%7C+TypeScript+%7C+Java;Building+resilient+cloud+infrastructure&font=Fira+Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+DevOPS+Architect+%40+SOU;9%2B+years+in+DevOps%2C+SRE+%26+FullStack;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Python+%7C+TypeScript+%7C+Java;Building+resilient+cloud+infrastructure&font=Fira+Code&center=true&width=600&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" />
 </p>
 
 <p align="center">
