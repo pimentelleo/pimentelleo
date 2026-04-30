@@ -39,7 +39,7 @@ ask_me_about: [DevOps, Cloud Architecture, IaC, CI/CD, Kubernetes, SRE]
 | DevOPS Engineer | Banco ABC | Azure DevOps, EKS, CI/CD Pipelines |
 | SRE - IQA | TIM Brasil | Azure DevOps, Infrastructure Mapping |
 | Professor | Alpha EdTech | HTML, CSS, JS, Node, React, GitHub Actions |
-| Dev Pleno / DevOPS | DAC | Docker Swarm, GitLab CI/CD, Infra |
+| Dev Pleno / DevOPS | TAG Tech | Docker Swarm, GitLab CI/CD, Infra |
 
 </details>
 
