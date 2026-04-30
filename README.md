@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Leonardo%20Pimentel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20FullStack%20Developer%20%7C%20DevOps%20Analyst&descAlignY=52&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Leonardo%20Pimentel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20DevOPS%20Architect%20%7C%20SRE%20%7C%20FullStack%20Engineer&descAlignY=52&descSize=18" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+software+since+2017;TypeScript+%7C+Java+%7C+Python+%7C+Vue;DevOps+Enthusiast+%26+Teacher;Always+learning+something+new&font=Fira+Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+DevOPS+Architect+%40+SOLU;9%2B+years+in+DevOps%2C+SRE+%26+FullStack;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Python+%7C+TypeScript+%7C+Java;Building+resilient+cloud+infrastructure&font=Fira+Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" />
 </p>
 
 <p align="center">
@@ -17,13 +17,31 @@
 
 ```yaml
 name: Leonardo Araujo Pimentel
-role: Senior FullStack Developer
-company: DevOPS Analyst @ Tim Brasil by Inmetrics
-teaching: Individual Teacher @ freeCodeCamp
+role: Senior DevOPS Architect
+company: SOLU
+headline: Senior DevOPS Architect | SRE | FullStack Engineer | Python Developer
 location: Salvador, Bahia, Brasil
+experience: 9+ years in DevOps, SRE, and FullStack Development
 currently_learning: [Go, Rust, DynamoDB]
-ask_me_about: [DevOps, Programming, Code Engineering]
+ask_me_about: [DevOps, Cloud Architecture, IaC, CI/CD, Kubernetes, SRE]
 ```
+
+<details>
+<summary><b>:briefcase: Career Highlights</b></summary>
+<br>
+
+| Role | Company | Stack |
+|------|---------|-------|
+| Senior DevOPS Architect | SOLU | Terraform, GitHub Actions, IaC, FullStack |
+| Senior SRE Analyst | Serasa Experian | Platform Engineering, Observability |
+| Cloud / SRE Specialist | Boa Vista SCPC (Equifax) | GCP, Python, Angular, Kubernetes |
+| DevOps Architect | Banco next (BRQ) | Azure DevOps, IaC, Release Management |
+| DevOPS Engineer | Banco ABC | Azure DevOps, EKS, CI/CD Pipelines |
+| SRE - IQA | TIM Brasil | Azure DevOps, Infrastructure Mapping |
+| Professor | Alpha EdTech | HTML, CSS, JS, Node, React, GitHub Actions |
+| Dev Pleno / DevOPS | DAC | Docker Swarm, GitLab CI/CD, Infra |
+
+</details>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-ara%C3%BAjo-pimentel-26619972/" target="_blank">
@@ -51,29 +69,25 @@ ask_me_about: [DevOps, Programming, Code Engineering]
 
 ---
 
-### :hammer_and_wrench: Frameworks, Tools & Platforms
+### :hammer_and_wrench: Tech Stack
 
 <div align="center">
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=vue,nuxt,svelte,react,nextjs,angular,html,css,sass" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,spring,python,ts,js" />
-
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,azure,gcp,jenkins,linux,bash,nginx,grafana" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,azure,gcp,jenkins,githubactions,ansible,linux,bash,nginx,grafana" />
 
-**Databases**
+**Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,spring,nodejs,nestjs,express,angular,vue,nuxt,svelte,react,nextjs" />
+
+**Databases & Messaging**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,rabbitmq" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,postman,vscode" />
 
 </div>
 
