@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+DevOPS+Architect+%40+SOLU;9%2B+years+in+DevOps%2C+SRE+%26+FullStack;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Python+%7C+TypeScript+%7C+Java;Building+resilient+cloud+infrastructure&font=Fira+Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+DevOPS+Architect+%40+SOU;9%2B+years+in+DevOps%2C+SRE+%26+FullStack;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Python+%7C+TypeScript+%7C+Java;Building+resilient+cloud+infrastructure&font=Fira+Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ```yaml
 name: Leonardo Araujo Pimentel
 role: Senior DevOPS Architect
-company: SOLU
+company: SOU
 headline: Senior DevOPS Architect | SRE | FullStack Engineer | Python Developer
 location: Salvador, Bahia, Brasil
 experience: 9+ years in DevOps, SRE, and FullStack Development
@@ -32,7 +32,7 @@ ask_me_about: [DevOps, Cloud Architecture, IaC, CI/CD, Kubernetes, SRE]
 
 | Role | Company | Stack |
 |------|---------|-------|
-| Senior DevOPS Architect | SOLU | Terraform, GitHub Actions, IaC, FullStack |
+| Senior DevOPS Architect | SOU | Terraform, GitHub Actions, IaC, FullStack |
 | Senior SRE Analyst | Serasa Experian | Platform Engineering, Observability |
 | Cloud / SRE Specialist | Boa Vista SCPC (Equifax) | GCP, Python, Angular, Kubernetes |
 | DevOps Architect | Banco next (BRQ) | Azure DevOps, IaC, Release Management |
