@@ -3,15 +3,6 @@
 </div>
 
 <p align="center">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/🇺🇸_English-selected-58a6ff?style=for-the-badge" alt="English" />
-  </a>&nbsp;
-  <a href="./README.pt-br.md">
-    <img src="https://img.shields.io/badge/🇧🇷_Português-click_here-gray?style=for-the-badge" alt="Português" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+DevOPS+Architect+%40+SOU;9%2B+years+in+DevOps%2C+SRE+%26+FullStack;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Python+%7C+TypeScript+%7C+Java;Building+resilient+cloud+infrastructure&font=Fira+Code&center=true&width=600&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" />
 </p>
 
